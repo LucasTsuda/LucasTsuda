@@ -1,7 +1,15 @@
 ### Olá! Eu sou o Lucas Tsuda Yagui 👋
 
+- 🔭 Hoje estou em busca de um trabalho na área de Programador Java Back-end
+- 🌱 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas
+- 📫 Como entrar em contato comigo:
+   Cel: (11)97559-1131
+   Email: lucastsudacedaspy@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasTsuda&show_icons=true&theme=radical)
+<div>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LucasTsuda&show_icons=true&theme=radical"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,21 +24,13 @@
   ##
  
 <div> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lucastsudacedaspy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-tsuda-yagui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
 
 
-- 🔭 Hoje estou em busca de um trabalho na área de Programador Java Back-end
-- 🌱 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 
